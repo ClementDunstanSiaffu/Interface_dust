@@ -49,7 +49,7 @@ function First ({data}){
 }
 
 First.getInitialProps = async ()=>{
-    const response = await fetch('https://mighty-reef-35459.herokuapp.com/hizo')
+    const response = await fetch('https://mighty-reef-35459.herokuapp.com/take/hizo')
     const data = await response.json()
     return {data}
 }

@@ -3,3 +3,17 @@
 
    overflow: hidden;
 }
+
+
+.inner-container{
+
+   width:60%;
+   margin:100px auto;
+}
+
+.title-text{
+   text-align: center;
+   margin-top: -30px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}

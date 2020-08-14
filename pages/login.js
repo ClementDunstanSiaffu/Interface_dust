@@ -17,7 +17,7 @@ function Login(){
     Please enter your Id
     </p>
 
-	<form className="form-inline m-4" action="http://localhost:8080/hakiki" method = "POST">
+	<form className="form-inline m-4" action="https://mighty-reef-35459.herokuapp.com/hakiki" method = "POST">
   	
     <div className="form-group mr-3">
     <label for="email" style={{color:"aliceblue"}}>user ID:</label>
