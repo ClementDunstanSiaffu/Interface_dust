@@ -25,7 +25,7 @@ function First ({data}){
                      <tr>
                        <th>ID No</th>
                        <th>WEIGHT (Kg)</th>
-                       <th>BILL</th>
+                       <th>BILL (Tsh)</th>
                       
                      </tr>
                  </thead>
